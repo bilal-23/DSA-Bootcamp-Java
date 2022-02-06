@@ -24,9 +24,9 @@
 19.  - [x] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20.  - [x] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 21.  - [x] [Two Sum](https://leetcode.com/problems/two-sum/) Not Optmized
-22.  - [ ] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23.  - [ ] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24.  - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+22.  - [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+23.  - [x] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+24.  - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25.  - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26.  - [ ] [Plus One](https://leetcode.com/problems/plus-one/)
 27.  - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
