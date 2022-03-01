@@ -26,11 +26,11 @@
 - [X] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
-- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [X] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [ ] [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [ ] [Reach a Number](https://leetcode.com/problems/reach-a-number/)
