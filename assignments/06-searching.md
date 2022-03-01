@@ -18,12 +18,12 @@
 - [X] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [X] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [X] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [ ] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-- [ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [X] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [X] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [X] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+- [X] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [X] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- [X] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
